@@ -7,8 +7,9 @@ import java.util.List;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
+    //ranjitha added this
     public boolean isPalindrome(String input){
         if(input==null){
             throw new IllegalArgumentException("input should not be null");
